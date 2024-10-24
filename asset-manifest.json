@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/achyutvardhan.github.io/static/css/main.15f539f4.css",
+    "main.js": "/achyutvardhan.github.io/static/js/main.74f0e9a9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/achyutvardhan.github.io/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/image1.pdf": "/achyutvardhan.github.io/static/media/image1.5492289b414c964ef606.pdf",
+    "static/media/Poppins-Thin.ttf": "/achyutvardhan.github.io/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/achyutvardhan.github.io/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/achyutvardhan.github.io/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/achyutvardhan.github.io/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/achyutvardhan.github.io/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/achyutvardhan.github.io/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/achyutvardhan.github.io/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/achyutvardhan.github.io/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/achyut.jpg": "/achyutvardhan.github.io/static/media/achyut.ed505a2682d9d535a541.jpg",
+    "static/media/arrow.gif": "/achyutvardhan.github.io/static/media/arrow.bf84565730718e044596.gif",
+    "static/media/slick.svg": "/achyutvardhan.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/achyutvardhan.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/achyutvardhan.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/achyutvardhan.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/achyutvardhan.github.io/index.html",
+    "main.15f539f4.css.map": "/achyutvardhan.github.io/static/css/main.15f539f4.css.map",
+    "main.74f0e9a9.js.map": "/achyutvardhan.github.io/static/js/main.74f0e9a9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/achyutvardhan.github.io/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f539f4.css",
+    "static/js/main.74f0e9a9.js"
+  ]
+}
