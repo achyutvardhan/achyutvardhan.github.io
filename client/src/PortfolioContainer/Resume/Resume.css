@@ -1,0 +1,29 @@
+.resume-external-container{
+    background-color: #24263B ;
+}
+
+.resume-internal-container{
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+    padding-left: 17%;
+    padding-right: 17%;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.heading-resume{
+    font-family: 'Rubik', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 80px;
+    color: #F57F17;
+}
+
+
+@media screen and (max-width: 945px) {
+    .resume-internal-container{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}

@@ -1,0 +1,84 @@
+.hamburger-container{
+    display: none;
+    position: relative;
+}
+.slide-bar{
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    background-color: transparent;
+    position: inherit;
+    top: 15px;
+    z-index: 10;
+  cursor: pointer;
+}
+.ham-slide-bar{
+    width: 50px;
+    height: 5px;
+    background-color: white;
+    color: whitesmoke;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+.menu{
+    margin-top: 15px;
+    overflow-y: scroll;
+    position: fixed;
+    top: 0;
+    background: #24263B;
+    left: 0;
+    bottom: 0;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    /* max-width: 290px; */
+    z-index: 9;
+    width: 100%;
+    transition: all 1s ease-in-out;
+}
+.navbtn-ham{
+    display: block;
+  padding: 10px 40px;
+  text-decoration: none;
+  color: whitesmoke;
+  font-family: "Poppins Regular";
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+}
+.navbtn-ham:hover{
+    text-decoration: none;
+    color: #F57F17;
+}
+.route-ham{
+    margin-top: 100px;
+}
+.hideMenu{
+    display: none;
+}
+.cross{
+    display: none;
+    text-align: center;
+}
+.cross-bar{
+    height: fit-content;
+    background-color: transparent;
+    position: relative;
+    top: -15px;
+    z-index: 10;
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+.bar{
+
+    display: block;
+}
+@media screen and (max-width:810px) {
+    .hamburger-container{
+        display: flex;
+        flex-direction: column;
+    }
+}

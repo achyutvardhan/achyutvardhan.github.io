@@ -1,0 +1,104 @@
+{
+  "rightHead": [
+    {
+      "heading": "Work Experience",
+      "content": [
+        {
+          "year": "2022-present",
+          "leftHead": "Founder | Kodewreck",
+          "para": "Kodewreck"
+        },
+        {
+          "year": "2021-present",
+          "leftHead": "senior technical executive | FED",
+          "para": "FED"
+        },
+        {
+          "year": "2022-present",
+          "leftHead": "Anchor | Kalliope",
+          "para": "Kaliiope"
+        },
+        {
+          "year": "2022-present",
+          "leftHead": "Technical Executive | TEDxKIITUniversity ",
+          "para": "TEDxKIITUniversity"
+        }
+      ]
+    },
+    {
+      "heading": "Education",
+      "content": [
+        {
+          "year": "2006-2019",
+          "leftHead": "10th Board | MOUNT ASSISI SCHOOL",
+          "para": " completed with 80.5%"
+        },
+        {
+          "year": "2019-2021",
+          "leftHead": "10+2 Board | CHAUHAN PUBLIC SCHOOL",
+          "para": "  completed with 80.5%"
+        },
+        {
+          "year": "2021-present",
+          "leftHead": "BTech | KIIT UNIVERSITY ",
+          "para": "  8.73 CGPA"
+        }
+      ]
+    },
+    {
+      "heading": "Skills & Expertise",
+      "content": [
+        {
+          "year": "",
+          "leftHead": "React | Intermediate",
+          "para": "Intermediate"
+        },
+        {
+          "year": "",
+          "leftHead": "HTML5 | Intermediate",
+          "para": "Intermediate"
+        },
+        {
+          "year": "",
+          "leftHead": "CSS | Intermediate",
+          "para": "Intermediate"
+        },
+        {
+          "year": "",
+          "leftHead": "Javascript | Intermediate",
+          "para": "Intermediate"
+        },
+        {
+          "year": "",
+          "leftHead": "Node.js | Beginner",
+          "para": "Beginner"
+        },
+        {
+          "year": "",
+          "leftHead": "Express.js | Beginner",
+          "para": "Beginner"
+        },
+        {
+          "year": "",
+          "leftHead": "C++ | Intermediate",
+          "para": "Intermediate"
+        },
+        {
+          "year": "",
+          "leftHead": "C | Intermediate",
+          "para": "Intermediate"
+        }
+      ]
+    },
+    {
+      "heading": "Achievement",
+      "content": [
+        {
+          "year": "",
+          "leftHead": "Envisage2022 | 3rd prize Winner ",
+          "para": "3rd prize Winner . Made Face recognition attendance ."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+.LexternalBarDiv{
+    background-color: whitesmoke;
+    width: 50%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    align-self: flex-end;
+    margin-bottom: 40px;
+    transition: width 0.5s ease-in-out;
+    /* margin-right: 10px; */
+}
+.LexternalBarDiv:hover{
+    width: 60%;
+}
+.LinternalBarDiv{
+    display: flex;
+    flex-direction: row-reverse;
+    color: #111;
+}
+.LprojectDetails{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    justify-content: space-around;
+    margin-right: 10px;
+}
+.Lprojet-name{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--orange);
+    /* align-self: flex-end; */
+}
+.Lproject-link{
+    margin-bottom: 10px;
+    width: 25%;
+    align-self: flex-end;
+    border: none;
+    padding: 15px;
+    border-radius: 30px;
+    background-color: #24263B;
+    cursor: pointer;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+.Lproject-link p{
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.Lproject-link:hover{
+    -webkit-transform: translateY(-1px);
+	transform: translateY(-1px);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.Ldiscription{
+   word-wrap: break-word;
+   text-overflow: ellipsis;
+   font-size: 16px;
+   font-weight: 500;
+   font-family:'Roboto', sans-serif;
+   max-height: 100px;
+   height: 100%;
+   overflow: hidden;
+}
+.Lduration{
+  opacity: 0.5;
+  /* align-self: flex-end; */
+}
+.LwebLink{
+    border: none;
+    height: auto;
+    width: 50%;
+    /* margin-right: 10px; */
+}
+.LwebLink img{
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+@media only screen and (max-width : 1250px) {
+    .Lproject-link{
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 945px) {
+    .LexternalBarDiv{
+        width: 70%;
+        border-radius: 10px;
+        align-self: center;
+    }
+    .LinternalBarDiv{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .Lproject-link{
+        align-self: center;
+    }
+    .LwebLink{
+        width: 100%;
+    }
+    .LwebLink img{
+        border-radius: 10px;
+        width: 100%;
+        height: 250px;
+        overflow: hidden;
+    }
+    .Lprojet-name,.Lduration,.Ldiscription{
+        align-self: center;
+    }
+}
