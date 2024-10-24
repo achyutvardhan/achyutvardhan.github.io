@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/achyutvardhan.github.io/static/css/main.15f539f4.css",
-    "main.js": "/achyutvardhan.github.io/static/js/main.74f0e9a9.js",
+    "main.js": "/achyutvardhan.github.io/static/js/main.262b673a.js",
     "static/js/787.c4e7f8f9.chunk.js": "/achyutvardhan.github.io/static/js/787.c4e7f8f9.chunk.js",
     "static/media/image1.pdf": "/achyutvardhan.github.io/static/media/image1.5492289b414c964ef606.pdf",
     "static/media/Poppins-Thin.ttf": "/achyutvardhan.github.io/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
@@ -20,11 +20,11 @@
     "static/media/slick.woff": "/achyutvardhan.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/achyutvardhan.github.io/index.html",
     "main.15f539f4.css.map": "/achyutvardhan.github.io/static/css/main.15f539f4.css.map",
-    "main.74f0e9a9.js.map": "/achyutvardhan.github.io/static/js/main.74f0e9a9.js.map",
+    "main.262b673a.js.map": "/achyutvardhan.github.io/static/js/main.262b673a.js.map",
     "787.c4e7f8f9.chunk.js.map": "/achyutvardhan.github.io/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15f539f4.css",
-    "static/js/main.74f0e9a9.js"
+    "static/js/main.262b673a.js"
   ]
 }
