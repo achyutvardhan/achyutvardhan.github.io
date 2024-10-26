@@ -3,7 +3,7 @@ import ContentLeft from "./ContentLeft";
 import "../css/ContentDiv.css"
 export default function ContentDiv(props) {
   let {content} = props.data
-  console.log(content);
+  // console.log(content);
   return (
     <>
       <div className="resume-external">

@@ -1,7 +1,7 @@
 import React from 'react'
 import '../css/ContentBox.css'
 export default function ContentBox(props) {
-    console.log(props);
+    // console.log(props);
   return (
     <>
     <div className="Testi-extrenal-container">
