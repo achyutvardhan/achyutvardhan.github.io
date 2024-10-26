@@ -1,7 +1,7 @@
 import React from 'react'
 import '../css/ContentBox.css'
 export default function ContentBox(props) {
-    // console.log(props);
+    console.log(props.Data.img);
   return (
     <>
     <div className="Testi-extrenal-container">
@@ -11,7 +11,7 @@ export default function ContentBox(props) {
                 {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aliquam esse blanditiis, dolorum harum assumenda ipsum neque placeat ratione. Neque sunt saepe ratione rerum, tempore doloribus quae officia odio odit!</p> */}
             </div>
             <div className="testi-img">
-                <img src={props.Data.img} alt="img" />
+                {/* <img src={require(`${props.Data.img}`)} alt="img" /> */}
                 {/* <img src={require('../../../assets/Home/achyut.jpg')} alt="img" /> */}
                 <div className="testi-name">
                    <div className="position" >
